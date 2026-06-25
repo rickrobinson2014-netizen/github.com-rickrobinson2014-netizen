@@ -21,7 +21,7 @@ Production Network & Security Engineer managing enterprise firewall clusters, SD
 - 🔥 **Daily drivers:** FortiGate 60F HA (FIPS-CC, FortiOS 7.4.x), PaloAlto VM-300, FortiGate SD-WAN
 - 🧪 **Lab platform:** EVE-NG bare-metal | Ryzen 9 3950X | 128 GB RAM
 - 📡 **Detection stack:** Elastic SIEM (1,696 rules) + Wazuh 4.14.5 + Shuffle SOAR + DFIR-IRIS
-- 🎓 **Certifications:** M.S. | NSE 7 (FortiGate Firewall) | PCNSE
+- 🎓 **Certifications:** M.S. | NSE 7 (FortiGate Firewall) | PCNSE | SECURTIY + | CCNP
 
 ---
 
