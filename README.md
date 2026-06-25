@@ -17,7 +17,7 @@
 
 Production Network & Security Engineer managing enterprise firewall clusters, SD-WAN infrastructure, and SOC tooling across multi-site environments. I build and document everything — from HA failover runbooks to full SOC detection pipelines — in a bare-metal EVE-NG home lab running the same stack I manage in production.
 
-- 🔥 **Daily drivers:** FortiGate 60F HA (FIPS-CC, FortiOS 7.4.x), PaloAlto VM-300, FortiGate SD-WAN
+- 🔥 **Daily drivers:** FortiGate 600F, 200F, 100E, 40F, 60F HA (FIPS-CC, FortiOS 7.4.x), PaloAlto VM-300, FortiGate SD-WAN
 - 🧪 **Lab platform:** EVE-NG bare-metal | Ryzen 9 3950X | 128 GB RAM
 - 📡 **Detection stack:** Elastic SIEM (1,696 rules) + Wazuh 4.14.5 + Shuffle SOAR + DFIR-IRIS
 - 🎓 **Certifications:** M.S. | NSE 4/5 (FortiGate Firewall) | PCNSA/PCNSE (Palo Alto Firewall) | Cisco SDWAN
